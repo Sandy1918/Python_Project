@@ -10,14 +10,14 @@ def introduction(hero,hero_in,side_actor):
     dialogues_1=f"""
     {side_actor}:-counting numbers{lst}
     suddenly close up to {hero_in}
-    {hero_in}:-bhairava ee chiravi ksnanam lo ina nijam cheppu 
+    {hero_in}:-hey how r u
     *************next scene**************
-    {hero}:-na oopriri na gamyam anni nuve mitra    
+    {hero}:- i am great
     ***************next scene************
-    kattu panna {hero_in} loyaloki padipoyindhi
-    mana {hero}kuda dookadu
+    near coffee machine {hero_in} went to drink coffee
+    now {hero} also follows
     ***************next scene**************
-    {side_actor}:-malli pudthav ra bhairava.
+    {side_actor}:-there is no coffee cups
     """
     return dialogues_1
 
