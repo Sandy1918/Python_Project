@@ -1,1 +1,1 @@
-print("Sandeep Repositry")
+print("Sandeep Repository")
